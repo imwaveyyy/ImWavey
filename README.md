@@ -10,6 +10,5 @@ Me:
 ---
 - Twitter: https://twitter.com/imwaveyonmc
 - Discord: Wavey#8056
-- NameMC: https://namemc.com/profile/ImWavey.3
 
 ---
